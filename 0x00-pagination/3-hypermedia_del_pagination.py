@@ -6,7 +6,6 @@ import csv
 from typing import Dict, List
 
 
-
 class Server:
     """
     Server class to paginate a database of popular baby names.
